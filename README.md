@@ -13,3 +13,7 @@ Become a UX Designer from Scratch Certificate [link here!](https://www.interacti
 Japanese Language Certificate [link here!](https://github.com/longvision/DaigakuCertificate/blob/main/gunma%20daigaku.pdf)
 
 Japanese Laguage Proficiency Test Certificate [link here!](https://github.com/longvision/JLPT/blob/master/JLPT%20-%20Ricardo%20Naoki%20Horiguchi.pdf)
+
+AWS Solutions Architect Associate Certificate [link here!](https://www.credly.com/badges/3cc1f4c5-53bc-46ba-ae9a-300e1930bab0?source=linked_in_profile)
+
+HarvardX certificate [link here!] (https://certificates.cs50.io/e2f8a32e-75bf-47f0-810d-7465d750f98d.pdf?size=letter)
