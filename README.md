@@ -16,4 +16,4 @@ Japanese Laguage Proficiency Test Certificate [link here!](https://github.com/lo
 
 AWS Solutions Architect Associate Certificate [link here!](https://www.credly.com/badges/3cc1f4c5-53bc-46ba-ae9a-300e1930bab0?source=linked_in_profile)
 
-HarvardX certificate [link here!] (https://certificates.cs50.io/e2f8a32e-75bf-47f0-810d-7465d750f98d.pdf?size=letter)
+HarvardX certificate [link here!](https://certificates.cs50.io/e2f8a32e-75bf-47f0-810d-7465d750f98d.pdf?size=letter)
